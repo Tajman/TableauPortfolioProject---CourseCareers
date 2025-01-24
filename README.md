@@ -20,3 +20,5 @@ Use the checklist below to check the quality of your work
 *  Did you include your data sources and other information like your details?
 *  Did you test the interactive elements such as filters, drill-downs, and animations on your visualization? Do they work as intended? And is it clear to your audience how they interact with the data?
 
+# My Visualization
+Please view my Tableau Public link of my visualization for the question above: https://public.tableau.com/app/profile/tajour.cohen.henry/viz/TCH-FinalTableauPortPro/Dashboard1?publish=yes
